@@ -1,3 +1,5 @@
+'use strict';
+
 function inc(num){
   num.n = num.n + 2;
 }

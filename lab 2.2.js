@@ -1,3 +1,5 @@
+'use strict';
+
 function range(start, end){
   let array = [];
   for(let i = start; i <= end; i++){

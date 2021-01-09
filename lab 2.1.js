@@ -1,3 +1,5 @@
+'use strict';
+
 const name = 'Kirill';
 const birthYear = 2003;
 function greet(name){

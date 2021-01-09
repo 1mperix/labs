@@ -1,3 +1,5 @@
+'use strict';
+
 const array = ['salam', 200, true, 'Ukraine', false, -800];
 const collection = {
   number: 0,
