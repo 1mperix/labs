@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="494ba29e-4695-4fbe-a79c-f56fa097e401" name="Default Changelist" comment="labs">
-      <change afterPath="$PROJECT_DIR$/lab3.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4.1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,13 +40,10 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/lab3.2.js" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.lab3.2.js">
-    <configuration name="lab 2.5.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/lab 2.5.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.lab4.1.js">
     <configuration name="lab2.5.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/lab2.5.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -59,13 +56,16 @@
     <configuration name="lab3.3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/lab3.3.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
+    <configuration name="lab4.1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/lab4.1.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.lab4.1.js" />
         <item itemvalue="Node.js.lab3.2.js" />
         <item itemvalue="Node.js.lab3.3.js" />
         <item itemvalue="Node.js.lab3.1.js" />
         <item itemvalue="Node.js.lab2.5.js" />
-        <item itemvalue="Node.js.lab 2.5.js" />
       </list>
     </recent_temporary>
   </component>
@@ -79,7 +79,7 @@
       <updated>1610207604050</updated>
       <workItem from="1610207606259" duration="1422000" />
       <workItem from="1610209776593" duration="4722000" />
-      <workItem from="1610295331316" duration="4547000" />
+      <workItem from="1610295331316" duration="6135000" />
     </task>
     <task id="LOCAL-00001" summary="1.3">
       <created>1610208312257</created>
@@ -151,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610213911395</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="labs">
+      <created>1610301018981</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1610301018982</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
